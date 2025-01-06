@@ -1,0 +1,11 @@
+{
+  "name": "HanumanKind",
+  "age": 25,
+  "isStudent": false,
+  "skills": ["Java", "Spring", "SQL"],
+  "address": {
+    "city": "Kuppam",
+    "pincode": 517425
+  },
+  "hobbies": null
+}
