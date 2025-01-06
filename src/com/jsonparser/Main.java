@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String jsonString = loadJsonFile("valid.json"); // Correctly call the method
+        String jsonString = loadJsonFile("valid.json");
 
         if (jsonString == null) {
             System.out.println("Error: JSON file could not be loaded.");
