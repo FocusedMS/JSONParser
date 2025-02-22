@@ -10,7 +10,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/MadhuSudhanCodeZ/JSONParser.git
+git clone https://github.com/FocusedMS/JSONParser.git
 Navigate to the project directory:
 
 bash
