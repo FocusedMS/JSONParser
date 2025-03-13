@@ -107,7 +107,7 @@ public class Parser {
         if (currentToken().getType() != expectedType) {
             throw new IllegalArgumentException(
                     "Expected " + expectedType + " but found " + currentToken().getType()
-            );
+            ); 
         }
         consume();
     }
